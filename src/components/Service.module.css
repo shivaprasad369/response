@@ -1,0 +1,11 @@
+@media only screen and (max-width:680px) {
+    .img{
+        flex-direction: column;
+    }
+    .img1{
+        flex-direction: column;
+    }
+    .box{
+        width: 90%;
+    }
+}
